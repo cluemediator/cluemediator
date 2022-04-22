@@ -63,7 +63,7 @@
 <div align="center">
     <a href="https://www.facebook.com/thecluemediator">
         <img alt="Clue Mediator's Facebook" width="30px"
-            src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/cluemediator">

@@ -85,11 +85,11 @@
         <img alt="Clue Mediator's Youtube" width="30px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
     </a>
-    &nbsp;&nbsp;&nbsp;
+    <!--&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/clue_mediator">
         <img alt="Clue Mediator's Instagram" width="30px"
             src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
-    </a>
+    </a>-->
 </div>
 <br />
 
